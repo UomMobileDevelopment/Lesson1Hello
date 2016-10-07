@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lesson1Hello</string>
+    <string name="helloText">Welcome to class!</string>
+</resources>
